@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>SRP</module>
+        <module>factory</module>
     </modules>
 
     <properties>
